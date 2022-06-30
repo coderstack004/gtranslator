@@ -1,0 +1,2 @@
+googletrans==3.1.0a0
+pywebio==1.6.1
